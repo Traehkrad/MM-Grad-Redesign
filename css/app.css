@@ -89,3 +89,10 @@ p {
 .iPage .button {
 	margin-bottom: 30px;
 }
+
+.siteLogo {
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	overflow: visible;
+	transform: translateY(2px);
+}
